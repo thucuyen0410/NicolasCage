@@ -187,7 +187,7 @@ if sentiment_button:
     st.write("Based on the data from Genre Performance and Metascore Performance, Nicolas Cage should focus on the genres of Drama and Comedy. Therefore, we want to explore the themes of these movies and analyze audience sentiment to gain a better understanding of what the next project should focus on and the type of sentiment it should convey.")
     st.write("- Drama movies' description emphasizes intense themes like 'war,' 'wife,' and 'wilderness,' reflecting serious and emotionally charged narratives.")
     st.write("- Reviews of drama movies focus on themes like 'dead,' 'real,' and 'new,' reflecting a mix of intense storytelling and unique perspectives.")
-    st.write("- Comedy dmovies typically center around family and relationships, with keywords like 'family,' 'school,' and 'life' dominating the narratives.")
+    st.write("- Comedy movies typically center around family and relationships, with keywords like 'family,' 'school,' and 'life' dominating the narratives.")
     st.write("- Comedy reviews highlight how these movies are 'funny' with a 'new' and 'different' twist, adding an extra 'kick' to the humor.")
 
 
