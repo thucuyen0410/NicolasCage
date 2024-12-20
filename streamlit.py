@@ -1,16 +1,5 @@
-# import streamlit as st 
-# # Set the app title 
-# st.title('Nicolas Cage Movie Analysis') 
-# # Add a welcome message 
-# st.write('Welcome to my Streamlit app!') 
-# # Create a text input 
-# widgetuser_input = st.text_input('Enter a custom message:', 'Hello, Streamlit!') 
-# # Display the customized message 
-# st.write('Customized Message:', widgetuser_input)
 
-import nltk
 import streamlit as st
-import matplotlib.pyplot as plt
 import plotly.express as px
 import pandas as pd
 from madkudu import (
