@@ -1,6 +1,7 @@
 import pandas as pd
 import nltk
 nltk.download('stopwords')
+nltk.download('punkt_tab')
 from nltk import FreqDist, pos_tag
 from nltk.corpus import stopwords
 
