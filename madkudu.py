@@ -2,6 +2,8 @@ import pandas as pd
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt_tab')
+nltk.download('averaged_perceptron_tagger_eng')
+
 from nltk import FreqDist, pos_tag
 from nltk.corpus import stopwords
 
